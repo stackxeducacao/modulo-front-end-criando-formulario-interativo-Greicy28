@@ -1,0 +1,21 @@
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  color: brown;
+}
+
+label {
+  margin: 1px;
+}
+
+input {
+  padding: 4px;
+  margin: 7px;
+}
+input[type="submit"] {
+  background-color: brown;
+  color: white;
+  width: 80px;
+  border: 2px solid black;
+}
